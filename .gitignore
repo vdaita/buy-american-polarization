@@ -1,5 +1,6 @@
 *.csv
 *.json
+*.pkl
 Partisan Index/
 .DS_Store
 
