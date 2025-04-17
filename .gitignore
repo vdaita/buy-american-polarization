@@ -3,6 +3,7 @@
 *.pkl
 Partisan Index/
 .DS_Store
+buy_american_graphs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
